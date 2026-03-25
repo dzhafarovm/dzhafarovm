@@ -1,32 +1,86 @@
 # Hi, I'm Maks Dzhafarov 👋
 
-Frontend Developer focused on building clean, scalable web applications.
+🚀 Frontend Developer focused on building clean, scalable, and high-performance web applications.
 
 ---
 
-### 🛠 Tech Stack
+## 🧠 About Me
 
-**Languages**
+- 💻 3+ years of experience in frontend development  
+- ⚛️ Strong focus on React ecosystem  
+- 🧩 Love building scalable architectures  
+- ⚡ Performance & UX oriented  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-**Frontend**
+## 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
 
-**Backend**
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,vue,redux,tailwind,html,css,sass" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
 
-**Tools**
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vite,webpack,babel,linux" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+---
 
+## 📚 Libraries & Ecosystem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,next,vue" />
+</p>
+
+- React Query / TanStack Query  
+- Zustand / MobX  
+- Axios / Fetch API  
+- Framer Motion  
+- React Hook Form  
+- Zod / Yup  
+- i18n (react-i18next, next-intl)  
+- Chart.js / Recharts  
+- Socket.io  
+
+---
+
+## ⚡ What I Build
+
+- 🔥 Complex dashboards & admin panels  
+- 🌍 Scalable frontend architectures  
+- ⚡ High-performance SPAs & SSR apps  
+- 📱 Responsive & mobile-first interfaces  
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: [your-linkedin]
+- 📬 Email: your-email
+
+---
+
+⭐️ From [Maks Dzhafarov](https://github.com/YOUR_USERNAME)
