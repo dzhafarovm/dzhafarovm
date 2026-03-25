@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 💻 3+ years of experience in frontend development  
+- 💻 4+ years of experience in frontend development  
 - ⚛️ Strong focus on React ecosystem  
 - 🧩 Love building scalable architectures  
 - ⚡ Performance & UX oriented  
@@ -78,9 +78,8 @@
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: [your-linkedin]
-- 📬 Email: your-email
+- 📬 Email: dzhafarovmm@gmail.com
 
 ---
 
-⭐️ From [Maks Dzhafarov](https://github.com/YOUR_USERNAME)
+⭐️ From [Maks Dzhafarov](https://github.com/dzhafarovm)
