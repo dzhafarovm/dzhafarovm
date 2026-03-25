@@ -30,15 +30,3 @@ Frontend Developer focused on building clean, scalable web applications.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Maks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzhafarovm&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzhafarovm&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzhafarovm/)
