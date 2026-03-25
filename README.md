@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 💻 4+ years of experience in frontend development  
+- 💻 4+ years of experience in development  
 - ⚛️ Strong focus on React ecosystem  
 - 🧩 Love building scalable architectures  
 - ⚡ Performance & UX oriented  
@@ -67,11 +67,11 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dzhafarovm&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzhafarovm&layout=compact&theme=tokyonight" />
 </p>
 
 ---
