@@ -67,18 +67,22 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dzhafarovm&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dzhafarovm&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzhafarovm&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=dzhafarovm&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzhafarovm&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📬 Email: dzhafarovmm@gmail.com
+- 📬 Email: dzhafarovmm@gmail.com  
 
 ---
 
