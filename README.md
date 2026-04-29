@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td><img src="https://cdn.simpleicons.org/html5" width="48" /></td>
-    <td><img src="https://cdn.simpleicons.org/css3" width="48" /></td>
+    <td><img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" /></td>
     <td><img src="https://cdn.simpleicons.org/sass" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/nodedotjs" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/nestjs" width="48" /></td>
@@ -55,7 +55,7 @@
     <td><img src="https://cdn.simpleicons.org/figma" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/postman" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/anthropic" width="48" /></td>
-    <td><img src="https://cdn.simpleicons.org/openai/10A37F" width="48" /></td>
+    <td><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" /></td>
     <td><img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" /></td>
   </tr>
