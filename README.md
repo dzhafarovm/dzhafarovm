@@ -16,80 +16,74 @@
                                                                              
   <br />                                                                     
   
-  ## 🛠 Tech Stack                                                            
-                  
-  <p>
-    <img width="48" height="48" src="https://cdn.simpleicons.org/javascript" 
-  alt="JS" />
-    <img width="48" height="48" src="https://cdn.simpleicons.org/typescript" 
-  alt="TS" />                                                                
-    <img width="48" height="48" src="https://cdn.simpleicons.org/react" 
-  alt="React" />                                                             
-    <img width="48" height="48" 
-  src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" />        
-    <img width="48" height="48" src="https://cdn.simpleicons.org/vuedotjs" 
-  alt="Vue" />                                                               
-    <img width="48" height="48" src="https://cdn.simpleicons.org/nuxtdotjs" 
-  alt="Nuxt" />                                                              
-    <img width="48" height="48" src="https://cdn.simpleicons.org/redux" 
-  alt="Redux" />                                                             
-    <img width="48" height="48" src="https://cdn.simpleicons.org/tailwindcss"
-   alt="Tailwind" />                                                         
-    <img width="48" height="48" src="https://cdn.simpleicons.org/html5" 
-  alt="HTML" />                                                              
-    <img width="48" height="48" src="https://cdn.simpleicons.org/css3" 
-  alt="CSS" />                                                               
-    <img width="48" height="48" src="https://cdn.simpleicons.org/sass" 
-  alt="Sass" />                                                              
-  </p>
+  ## 🛠 Tech Stack
                                                                              
   <p>             
-    <img width="48" height="48" src="https://cdn.simpleicons.org/nodedotjs" 
-  alt="Node.js" />                                                           
-    <img width="48" height="48" src="https://cdn.simpleicons.org/nestjs" 
-  alt="NestJS" />                                                            
-    <img width="48" height="48" 
-  src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express" />          
-    <img width="48" height="48" src="https://cdn.simpleicons.org/graphql" 
-  alt="GraphQL" />                                                           
-    <img width="48" height="48" 
-  src="https://cdn.simpleicons.org/prisma/FFFFFF" alt="Prisma" />            
-    <img width="48" height="48" src="https://cdn.simpleicons.org/postgresql" 
-  alt="Postgres" />                                                          
-    <img width="48" height="48" src="https://cdn.simpleicons.org/mongodb" 
-  alt="MongoDB" />                                                           
-    <img width="48" height="48" src="https://cdn.simpleicons.org/redis" 
-  alt="Redis" />                                                             
-  </p>            
-                                                                             
-  <p>
-    <img width="48" height="48" src="https://cdn.simpleicons.org/jest"       
-  alt="Jest" />   
-    <img width="48" height="48" src="https://cdn.simpleicons.org/vite" 
-  alt="Vite" />                                                              
-    <img width="48" height="48" src="https://cdn.simpleicons.org/webpack" 
-  alt="Webpack" />                                                           
-    <img width="48" height="48" src="https://cdn.simpleicons.org/docker" 
-  alt="Docker" />                                                            
-    <img width="48" height="48" src="https://cdn.simpleicons.org/git" 
-  alt="Git" />                                                               
-    <img width="48" height="48" 
-  src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" />            
-    <img width="48" height="48" src="https://cdn.simpleicons.org/linux" 
-  alt="Linux" />                                                             
-    <img width="48" height="48" src="https://cdn.simpleicons.org/figma" 
-  alt="Figma" />                                                             
-    <img width="48" height="48" src="https://cdn.simpleicons.org/postman" 
-  alt="Postman" />                                                           
-    <img width="48" height="48" src="https://cdn.simpleicons.org/anthropic" 
-  alt="Claude" />                                                            
-    <img width="48" height="48" 
-  src="https://cdn.simpleicons.org/openai/10A37F" alt="ChatGPT" />           
-    <img width="48" height="48" 
-  src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="Copilot" />    
-    <img width="48" height="48" 
-  src="https://cdn.simpleicons.org/cursor/FFFFFF" alt="Cursor" />            
-  </p>
+    <img src="https://cdn.simpleicons.org/javascript" alt="JS" width="48"    
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/typescript" alt="TS" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/react" alt="React" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" 
+  width="48" height="48" />&nbsp;&nbsp;                                      
+    <img src="https://cdn.simpleicons.org/vuedotjs" alt="Vue" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/nuxtdotjs" alt="Nuxt" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/redux" alt="Redux" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind" 
+  width="48" height="48" />&nbsp;&nbsp;                                      
+    <img src="https://cdn.simpleicons.org/html5" alt="HTML" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/css3" alt="CSS" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/sass" alt="Sass" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="48"
+   height="48" />&nbsp;&nbsp;                                                
+    <img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express" 
+  width="48" height="48" />&nbsp;&nbsp;                                      
+    <img src="https://cdn.simpleicons.org/graphql" alt="GraphQL" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/prisma/FFFFFF" alt="Prisma" 
+  width="48" height="48" />&nbsp;&nbsp;                                      
+    <img src="https://cdn.simpleicons.org/postgresql" alt="Postgres" 
+  width="48" height="48" />&nbsp;&nbsp;                                      
+    <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/redis" alt="Redis" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/jest" alt="Jest" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/webpack" alt="Webpack" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/git" alt="Git" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" 
+  width="48" height="48" />&nbsp;&nbsp;                                      
+    <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="48" 
+  height="48" />&nbsp;&nbsp;                                                 
+    <img src="https://cdn.simpleicons.org/openai/10A37F" alt="ChatGPT" 
+  width="48" height="48" />&nbsp;&nbsp;                                      
+    <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="Copilot"
+   width="48" height="48" />&nbsp;&nbsp;                                     
+    <img src="https://cdn.simpleicons.org/cursor/FFFFFF" alt="Cursor" 
+  width="48" height="48" />                                                  
+  </p>        
                                                                              
   <br />          
 
