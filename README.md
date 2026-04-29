@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Maks Dzhafarov 👋</h1>                          
+<h1 align="center">Hi, I'm Maks Dzhafarov 👋</h1>                          
                                                                              
   <p align="center">
     🚀 Frontend Developer focused on building clean, scalable, and           
@@ -79,16 +79,24 @@
                   
   ---
 
+  <p align="center">   
+    <img height="165" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzhafar
+  ovm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />     
+  </p>                                                                       
+                   
+  ---                                                                        
+                                                                             
   ## 🌐 Connect with Me
-
+                                                                             
   <p align="center">
     <a href="mailto:dzhafarovmm@gmail.com"><img src="https://img.shields.io/b
-  adge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"          
-  height="34"/></a>
+  adge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+  height="34"/></a>                                                          
     <a href="https://github.com/dzhafarovm"><img src="https://img.shields.io/
-  badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"       
-  height="34"/></a>
-  </p>                                                                       
-                  
+  badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"     
+  height="34"/></a>                                                          
+  </p>                                                                
+                                                                             
   <p align="center">⭐️ From <a href="https://github.com/dzhafarovm">Maks     
-  Dzhafarov</a></p>
+  Dzhafarov</a></p>  
