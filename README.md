@@ -25,7 +25,7 @@
     <td><img src="https://cdn.simpleicons.org/react" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/vuedotjs" width="48" /></td>
-    <td><img src="https://cdn.simpleicons.org/nuxtdotjs" width="48" /></td>
+    <td><img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxtdotjs&logoColor=white" /></td>
     <td><img src="https://cdn.simpleicons.org/redux" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/tailwindcss" width="48" /></td>
   </tr>
