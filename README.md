@@ -18,7 +18,7 @@
   
   ## 🛠 Tech Stack
                                                                              
-  <p>             
+  <p style={{display: 'flex'}}>             
     <img src="https://cdn.simpleicons.org/javascript" alt="JS" width="48"    
   height="48" />&nbsp;&nbsp;                                                 
     <img src="https://cdn.simpleicons.org/typescript" alt="TS" width="48" 
