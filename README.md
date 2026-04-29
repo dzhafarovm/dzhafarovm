@@ -1,73 +1,81 @@
-<h1 align="center">Hi, I'm Maks Dzhafarov 👋</h1>             
+# Hi, I'm Maks Dzhafarov 👋
 
-  <p align="center">                                                         
-    🚀 <b>Fullstack Developer</b><br/>
-    Building scalable, high-performance web applications with clean          
-  architecture &amp; modern tooling.                                         
-  </p>
-                                                                             
-  ---             
+🚀 Frontend Developer focused on building clean, scalable, and high-performance web applications.
 
-  ## 🧠 About
+---
 
-  <p align="center">
-    💻 4+ years experience &nbsp;•&nbsp; ⚡ Performance-driven &nbsp;•&nbsp;
-  🧩 Scalable systems &nbsp;•&nbsp; 🤖 AI-powered workflow                   
-  </p>
-                                                                             
-  ---             
-                                                                             
-  ## 🛠 Tech Stack 
+## 🧠 About Me
 
-  <p align="center">
-    <img height="60" src="https://skillicons.dev/icons?i=js,ts,react,next,vue
-  ,nuxtjs,redux,tailwind,html,css,sass,nodejs,nestjs,express" />             
-  </p>
-  <p align="center">                                                         
-    <img height="60" src="https://skillicons.dev/icons?i=graphql,prisma,postg
-  res,mongodb,redis,jest,vite,webpack,docker,git,github,linux,figma,postman" 
-  />
-  </p>                                                                       
-                  
-  ---
+- 💻 4+ years of experience in development  
+- ⚛️ Strong focus on React ecosystem  
+- 🧩 Love building scalable architectures  
+- ⚡ Performance & UX oriented  
 
-  ## 🤖 AI Tools                                                             
-   
-  <p align="center">                                                         
-    <img height="55" src="https://cdn.simpleicons.org/anthropic/D97757" 
-  alt="Claude" />
-    &nbsp;&nbsp;&nbsp;
-    <img height="55" src="https://cdn.simpleicons.org/openai/10A37F"         
-  alt="ChatGPT" />
-    &nbsp;&nbsp;&nbsp;                                                       
-    <img height="55" src="https://cdn.simpleicons.org/githubcopilot/A0A0A0"  
-  alt="GitHub Copilot" />                                                    
-    &nbsp;&nbsp;&nbsp;                                                       
-    <img height="55" src="https://cdn.simpleicons.org/cursor/FFFFFF"         
-  alt="Cursor" />                                                            
-  </p>
-                                                                             
-  ---             
+---
 
-  ## 📈 GitHub Stats
+## 🛠 Tech Stack
 
-  <p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?usernam
-  e=dzhafarovm&show_icons=true&theme=tokyonight&hide_border=true&include_all_
-  commits=true&count_private=true" />
-    <img height="160" src="https://streak-stats.demolab.com?user=dzhafarovm&t
-  heme=tokyonight&hide_border=true" />                                       
-  </p>
-                                                                             
-  ---             
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
 
-  ## 🌐 Connect
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,vue,redux,tailwind,html,css,sass" />
+</p>
 
-  <p align="center">
-    📬 <a href="mailto:dzhafarovmm@gmail.com">dzhafarovmm@gmail.com</a>
-    &nbsp;•&nbsp;                                                            
-    🐙 <a href="https://github.com/dzhafarovm">github.com/dzhafarovm</a>     
-  </p>                                                                       
-                                                                             
-  <p align="center">⭐️ From <a href="https://github.com/dzhafarovm">Maks     
-  Dzhafarov</a></p>
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vite,webpack,babel,linux" />
+</p>
+
+---
+
+## 📚 Libraries & Ecosystem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,next,vue" />
+</p>
+
+- React Query / TanStack Query  
+- Zustand / MobX  
+- Axios / Fetch API  
+- Framer Motion  
+- React Hook Form  
+- Zod / Yup  
+- i18n (react-i18next, next-intl)  
+- Chart.js / Recharts  
+- Socket.io  
+
+---
+
+## ⚡ What I Build
+
+- 🔥 Complex dashboards & admin panels  
+- 🌍 Scalable frontend architectures  
+- ⚡ High-performance SPAs & SSR apps  
+- 📱 Responsive & mobile-first interfaces  
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=dzhafarovm&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- 📬 Email: dzhafarovmm@gmail.com  
+
+---
+
+⭐️ From [Maks Dzhafarov](https://github.com/dzhafarovm)
