@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td><img src="https://cdn.simpleicons.org/html5" width="48" /></td>
-    <td><img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" /></td>
+    <td><img src="https://cdn.simpleicons.org/css" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/sass" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/nodedotjs" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/nestjs" width="48" /></td>
