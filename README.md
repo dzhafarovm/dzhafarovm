@@ -16,61 +16,20 @@
                                                                              
   <br />                                                                     
   
-  ## 🛠 Tech Stack
+## 🛠 Tech Stack 
                                                                              
-  ## 🛠 Tech Stack                                                            
-                                                                             
-  <p><img src="https://cdn.simpleicons.org/javascript" width="48"            
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript" 
-  width="48" height="48"/>&nbsp;&nbsp;<img                                   
-  src="https://cdn.simpleicons.org/react" width="48" 
-  height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vuedotjs" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/nuxtdotjs" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/tailwindcss" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/css3" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sass" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/nodedotjs" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nestjs" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/express/FFFFFF" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/graphql" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/prisma/FFFFFF" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/mongodb" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redis" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/jest" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vite" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/webpack" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/git" width="48" 
-  height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/github/FFFFFF" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/figma" width="48" 
-  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman" 
-  width="48" height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/anthropic" width="48" 
-  height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/openai/10A37F" width="48" 
-  height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" 
-  height="48"/>&nbsp;&nbsp;<img 
-  src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" 
-  height="48"/></p>
+  <p>             
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxtjs,redu
+  x,tailwind,html,css,sass,nodejs,nestjs,express,graphql,prisma" />          
+  </p>
+  <p>                                                                        
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,jest,vite
+  ,webpack,docker,git,github,linux,figma,postman" />                         
+  </p>
+  <p>                                                                        
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gi
+  thubcopilot,cursor" />                                                     
+  </p>
                                                                              
   <br />          
 
