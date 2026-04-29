@@ -25,7 +25,7 @@
     <td><img src="https://cdn.simpleicons.org/react" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/vuedotjs" width="48" /></td>
-   <td><img src="https://cdn.simpleicons.org/nuxt" width="48" /></td>
+    <td><img src="https://cdn.simpleicons.org/nuxt" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/redux" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/tailwindcss" width="48" /></td>
   </tr>
@@ -55,7 +55,7 @@
     <td><img src="https://cdn.simpleicons.org/figma" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/postman" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/anthropic" width="48" /></td>
-   <td><img src="https://cdn.simpleicons.org/openai" width="48" /></td>
+    <img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white" />
     <td><img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" /></td>
   </tr>
