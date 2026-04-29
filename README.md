@@ -55,7 +55,7 @@
     <td><img src="https://cdn.simpleicons.org/figma" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/postman" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/anthropic" width="48" /></td>
-    <img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white" />
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" /></td>
     <td><img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" /></td>
   </tr>
