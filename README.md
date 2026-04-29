@@ -18,72 +18,59 @@
   
   ## 🛠 Tech Stack
                                                                              
-  <p style={{display: 'flex'}}>             
-    <img src="https://cdn.simpleicons.org/javascript" alt="JS" width="48"    
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/typescript" alt="TS" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/react" alt="React" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" 
-  width="48" height="48" />&nbsp;&nbsp;                                      
-    <img src="https://cdn.simpleicons.org/vuedotjs" alt="Vue" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/nuxtdotjs" alt="Nuxt" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/redux" alt="Redux" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind" 
-  width="48" height="48" />&nbsp;&nbsp;                                      
-    <img src="https://cdn.simpleicons.org/html5" alt="HTML" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/css3" alt="CSS" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/sass" alt="Sass" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="48"
-   height="48" />&nbsp;&nbsp;                                                
-    <img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express" 
-  width="48" height="48" />&nbsp;&nbsp;                                      
-    <img src="https://cdn.simpleicons.org/graphql" alt="GraphQL" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/prisma/FFFFFF" alt="Prisma" 
-  width="48" height="48" />&nbsp;&nbsp;                                      
-    <img src="https://cdn.simpleicons.org/postgresql" alt="Postgres" 
-  width="48" height="48" />&nbsp;&nbsp;                                      
-    <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/redis" alt="Redis" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/jest" alt="Jest" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/webpack" alt="Webpack" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/git" alt="Git" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" 
-  width="48" height="48" />&nbsp;&nbsp;                                      
-    <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="48" 
-  height="48" />&nbsp;&nbsp;                                                 
-    <img src="https://cdn.simpleicons.org/openai/10A37F" alt="ChatGPT" 
-  width="48" height="48" />&nbsp;&nbsp;                                      
-    <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="Copilot"
-   width="48" height="48" />&nbsp;&nbsp;                                     
-    <img src="https://cdn.simpleicons.org/cursor/FFFFFF" alt="Cursor" 
-  width="48" height="48" />                                                  
-  </p>        
+  ## 🛠 Tech Stack                                                            
+                                                                             
+  <p><img src="https://cdn.simpleicons.org/javascript" width="48"            
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript" 
+  width="48" height="48"/>&nbsp;&nbsp;<img                                   
+  src="https://cdn.simpleicons.org/react" width="48" 
+  height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vuedotjs" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/nuxtdotjs" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/tailwindcss" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/css3" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sass" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/nodedotjs" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nestjs" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/express/FFFFFF" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/graphql" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/prisma/FFFFFF" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/mongodb" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redis" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/jest" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vite" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/webpack" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/git" width="48" 
+  height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/github/FFFFFF" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/figma" width="48" 
+  height="48"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman" 
+  width="48" height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/anthropic" width="48" 
+  height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/openai/10A37F" width="48" 
+  height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" 
+  height="48"/>&nbsp;&nbsp;<img 
+  src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" 
+  height="48"/></p>
                                                                              
   <br />          
 
