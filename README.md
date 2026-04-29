@@ -1,12 +1,73 @@
-<div align="center">Hi, I'm Maks Dzhafarov 👋</div>
-<div align="center">🚀 Fullstack Developer</div>
-<p align="center"> Building scalable, high-performance web applications with clean architecture & modern tooling </p>
-<div align="center">🧠 About</div>
-<p align="center"> 💻 4+ years experience &nbsp;&nbsp;•&nbsp;&nbsp; ⚡ Performance-driven &nbsp;&nbsp;•&nbsp;&nbsp; 🧩 Scalable systems &nbsp;&nbsp;•&nbsp;&nbsp; 🤖 AI-powered workflow </p>
-<div align="center">🛠 Tech Stack</div>
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,redux,tailwind,html,css,sass,nodejs,nestjs,express,postgres,mongodb,prisma,firebase,docker,aws,vercel,git,github,vite,webpack,babel,linux&perline=9" /> </p>
-<div align="center">🤖 AI Tools</div>
-<p align="center"> <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" /> </p>
-<div align="center">🌐 Connect</div>
-<p align="center"> 📬 <b>dzhafarovmm@gmail.com</b> </p>
-<p align="center"> ⭐️ <b>Maks Dzhafarov</b> </p>
+<h1 align="center">Hi, I'm Maks Dzhafarov 👋</h1>             
+
+  <p align="center">                                                         
+    🚀 <b>Fullstack Developer</b><br/>
+    Building scalable, high-performance web applications with clean          
+  architecture &amp; modern tooling.                                         
+  </p>
+                                                                             
+  ---             
+
+  ## 🧠 About
+
+  <p align="center">
+    💻 4+ years experience &nbsp;•&nbsp; ⚡ Performance-driven &nbsp;•&nbsp;
+  🧩 Scalable systems &nbsp;•&nbsp; 🤖 AI-powered workflow                   
+  </p>
+                                                                             
+  ---             
+                                                                             
+  ## 🛠 Tech Stack 
+
+  <p align="center">
+    <img height="60" src="https://skillicons.dev/icons?i=js,ts,react,next,vue
+  ,nuxtjs,redux,tailwind,html,css,sass,nodejs,nestjs,express" />             
+  </p>
+  <p align="center">                                                         
+    <img height="60" src="https://skillicons.dev/icons?i=graphql,prisma,postg
+  res,mongodb,redis,jest,vite,webpack,docker,git,github,linux,figma,postman" 
+  />
+  </p>                                                                       
+                  
+  ---
+
+  ## 🤖 AI Tools                                                             
+   
+  <p align="center">                                                         
+    <img height="55" src="https://cdn.simpleicons.org/anthropic/D97757" 
+  alt="Claude" />
+    &nbsp;&nbsp;&nbsp;
+    <img height="55" src="https://cdn.simpleicons.org/openai/10A37F"         
+  alt="ChatGPT" />
+    &nbsp;&nbsp;&nbsp;                                                       
+    <img height="55" src="https://cdn.simpleicons.org/githubcopilot/A0A0A0"  
+  alt="GitHub Copilot" />                                                    
+    &nbsp;&nbsp;&nbsp;                                                       
+    <img height="55" src="https://cdn.simpleicons.org/cursor/FFFFFF"         
+  alt="Cursor" />                                                            
+  </p>
+                                                                             
+  ---             
+
+  ## 📈 GitHub Stats
+
+  <p align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?usernam
+  e=dzhafarovm&show_icons=true&theme=tokyonight&hide_border=true&include_all_
+  commits=true&count_private=true" />
+    <img height="160" src="https://streak-stats.demolab.com?user=dzhafarovm&t
+  heme=tokyonight&hide_border=true" />                                       
+  </p>
+                                                                             
+  ---             
+
+  ## 🌐 Connect
+
+  <p align="center">
+    📬 <a href="mailto:dzhafarovmm@gmail.com">dzhafarovmm@gmail.com</a>
+    &nbsp;•&nbsp;                                                            
+    🐙 <a href="https://github.com/dzhafarovm">github.com/dzhafarovm</a>     
+  </p>                                                                       
+                                                                             
+  <p align="center">⭐️ From <a href="https://github.com/dzhafarovm">Maks     
+  Dzhafarov</a></p>
