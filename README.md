@@ -1,18 +1,12 @@
-Hi, I'm Maks Dzhafarov 👋
-
-🚀 Fullstack Developer building scalable, high-performance web applications.
-
-🧠 About Me
-💻 4+ years of experience
-⚡ Performance & architecture focused
-🧩 Clean, scalable solutions
-🤖 AI-powered workflow
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,redux,tailwind,html,css,sass,nodejs,nestjs,express,docker,git,github,vite,webpack,babel,linux&perline=10" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,firebase,aws,vercel&perline=8" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=githubcopilot" /> <img src="https://img.shields.io/badge/Claude-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai" /> <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge" /> </p>
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dzhafarovm&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=dzhafarovm&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzhafarovm&layout=compact&theme=tokyonight&langs_count=10" /> </p>
-🌐 Connect
-
-📬 dzhafarovmm@gmail.com
-
-⭐️ Maks Dzhafarov
+<div align="center">Hi, I'm Maks Dzhafarov 👋</div>
+<div align="center">🚀 Fullstack Developer</div>
+<p align="center"> Building scalable, high-performance web applications with clean architecture & modern tooling </p>
+<div align="center">🧠 About</div>
+<p align="center"> 💻 4+ years experience &nbsp;&nbsp;•&nbsp;&nbsp; ⚡ Performance-driven &nbsp;&nbsp;•&nbsp;&nbsp; 🧩 Scalable systems &nbsp;&nbsp;•&nbsp;&nbsp; 🤖 AI-powered workflow </p>
+<div align="center">🛠 Tech Stack</div>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,redux,tailwind,html,css,sass,nodejs,nestjs,express,postgres,mongodb,prisma,firebase,docker,aws,vercel,git,github,vite,webpack,babel,linux&perline=9" /> </p>
+<div align="center">🤖 AI Tools</div>
+<p align="center"> <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" /> </p>
+<div align="center">🌐 Connect</div>
+<p align="center"> 📬 <b>dzhafarovmm@gmail.com</b> </p>
+<p align="center"> ⭐️ <b>Maks Dzhafarov</b> </p>
